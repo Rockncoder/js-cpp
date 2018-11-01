@@ -1,2 +1,2 @@
 # js-cpp
-Modern C++ and Modern JavaScript while very different languages, can be programmed in a similar style.
+Modern versions of C++ and JavaScript are very different languages, but they can be programmed in a similar styles.
