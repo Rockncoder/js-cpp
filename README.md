@@ -10,5 +10,6 @@ Modern versions of C++ and JavaScript are very different languages, but they can
 1. destructuring ES6 & C++17 (but they call it different things)
 1. range for loops
 1. nested classes / structs
+1. initializing arrays with generated data
 
 
