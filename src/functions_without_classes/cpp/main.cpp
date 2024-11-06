@@ -6,6 +6,6 @@ std::string greet(const std::string& name) {
 }
 
 int main() {
-    std::cout << greet("C++") << std::endl;  // Output: Hello, C++!
+    std::cout << greet("C++") << "\n";  // Output: Hello, C++!
     return 0;
 }
