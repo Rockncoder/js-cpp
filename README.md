@@ -6,15 +6,13 @@ Modern versions of C++ and JavaScript are very different languages, but they can
 1. The **this** pointer
 1. lambdas/arrow functions
 1. closures
-  1. JS: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#closures
-  2. C++: https://leimao.github.io/blog/CPP-Closure/#:~:text=In%20C%2B%2B%2C%20lambda%20expression,that%20originated%20from%20functional%20programming.
+   1. [JS - closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript#closures)
+   2. [C++ - closure](https://leimao.github.io/blog/CPP-Closure/#:~:text=In%20C%2B%2B%2C%20lambda%20expression,that%20originated%20from%20functional%20programming)
 1. scope anywhere with {} blocks
 1. nested classes/structs
 1. destructuring ES6 & C++17 (but they call it different things)
-  1. JS - destructuring assignment
-    1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
-  1. C++ - structure binding declaration
-    1. https://en.cppreference.com/w/cpp/language/structured_binding
+   1. [JS - destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+   1. [C++ - structure binding declaration](https://en.cppreference.com/w/cpp/language/structured_binding)
 1. range for loops
 1. initializing arrays with generated data
 1. IIFE - immediately invoke function expression
@@ -36,7 +34,7 @@ JavaScript’s template literals (with backticks) and C++’s std::format or std
 8.	Collections and Iteration Methods
 JavaScript’s array functions (map, filter, reduce) have counterparts in C++ with <algorithm> functions like std::transform, std::copy_if, and std::accumulate.
 9.	Type Aliases (TypeScript vs. C++ Typedefs/using)
-JavaScript with TypeScript has type aliases similar to C++’s typedef and using, allowing for custom, shorthand type definitions.
+JavaScript with TypeScript has type aliases similar to C++’s typedef/using, allowing for custom, shorthand type definitions.
 10.	Class Fields and Access Modifiers
 JavaScript (with private fields) and C++ use access modifiers, though they handle encapsulation differently.
 11.	Prototype/Prototype-like Patterns
